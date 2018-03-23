@@ -1,5 +1,5 @@
 var express = require('express');
-var morgan = require('morgan');
+var morgan = require('morgan');//is used to get the out put logs of a server
 var path = require('path');
 
 var app = express();
